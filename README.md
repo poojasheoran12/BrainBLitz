@@ -56,4 +56,4 @@ BrainBlitz was created to help me:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/BrainBlitz.git
+   git clone https://github.com/poojasheoran12/BrainBlitz.git
